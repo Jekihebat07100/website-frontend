@@ -5,16 +5,16 @@ function Experience() {
     {
       id: 1,
       kategori: "Ekstrakurikuler",
-      judul: "Karang Taruna & IPNU",
+      judul: "KIR(karya ilmiah Remaja)",
       deskripsi:
-        "Aktif dalam organisasi pemuda dan pelajar untuk kegiatan sosial kemasyarakatan di lingkungan sekitar.",
+        "eskul nya seru dan menarik",
     },
     {
       id: 2,
       kategori: "Lomba",
-      judul: "Futsal Tournament",
+      judul: "BANYUMAS TRAIL RUN",
       deskripsi:
-        "Berpartisipasi dalam turnamen futsal antar sekolah sebagai bentuk pengembangan diri di luar akademik.",
+        "Finish urutan 30",
     },
   ]);
 
